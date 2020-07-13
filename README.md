@@ -1,2 +1,2 @@
-# automate-the-boring-stuff-with-python
-:snake: Practice projects from the book Automate the Boring Stuff with Python by Al Sweigart
+# Automate the Boring Stuff with Python
+My solutions to the practice projects from [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by [Al Sweigart](https://alsweigart.com/)
